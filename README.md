@@ -1,10 +1,10 @@
 # *task1.1*
 
-* ## Change your global configs
+* ## Change my global configs
 ![before-fix](/images/change_user_email.png)
 * ## Create new private repo on GitHub
 ![before-fix](/images/git_repo.png)
-* ## The list of command that I executed
+* ## The list of commands that I executed to do this task
 ```
 git clone git@github.com:vi140584ovn/DevOps_online_Vinnytsia_2021Q2.git
 cd DevOps_online_Vinnytsia_2021Q2
@@ -65,3 +65,9 @@ git push
 
 ### index.html after fix
 ![after-fix](/images/after_fix.png)
+
+* ## What DevOps is? 
+
+DevOps is an integration of specialist for development, 
+testing and exploitation in order to provide a quality product. 
+To be short, it is a set of tools and commands for effective organization to create and update program services and products.
