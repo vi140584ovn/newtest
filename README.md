@@ -1,8 +1,7 @@
-# newtest
-## test
+# *task1.1
 
-### before fix
+### index.html before fix
 ![before-fix](/images/before_fix.png)
 
-### after fix
+### index.html after fix
 ![after-fix](/images/after_fix.png)
