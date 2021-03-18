@@ -1,10 +1,11 @@
 # *task1.1*
 
-* ##Change your global configs
+* ## Change your global configs
 ![before-fix](/images/change_user_email.png)
-* ##Create new private repo on GitHub
+* ## Create new private repo on GitHub
 ![before-fix](/images/git_repo.png)
 * ## The list of command that I executed
+```
 git clone git@github.com:vi140584ovn/DevOps_online_Vinnytsia_2021Q2.git
 cd DevOps_online_Vinnytsia_2021Q2
 mkdir task1.1
@@ -57,7 +58,7 @@ git reflog > task1.1_GIT.txt
 git add task1.1_GIT.txt 
 git commit -m "add task1.1_GIT.txt"
 git push
-
+```
 
 ### index.html before fix
 ![before-fix](/images/before_fix.png)
