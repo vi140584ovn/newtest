@@ -1,6 +1,8 @@
 # newtest
 ## test
 
-Format: ![before-fix](/images/before_fix.png)
+### before fix
+![before-fix](/images/before_fix.png)
 
-Format: ![after-fix](/images/after_fix.png)
+### after fix
+![after-fix](/images/after_fix.png)
