@@ -1,5 +1,5 @@
 # newtest
 ## test
 
-[GitHub Logo](/images/till_fix.png)
-![GitHub Logo](/images/after_fix.png)
+![before_fix](/images/before_fix.png)
+![after_fix](/images/after_fix.png)
