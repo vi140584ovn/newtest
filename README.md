@@ -70,4 +70,4 @@ git push
 
 DevOps is an integration of specialist for development, 
 testing and exploitation in order to provide a quality product. 
-To be short, it is a set of tools and commands for effective organization to create and update program services and products. 12
+To be short, it is a set of tools and commands for effective organization to create and update program services and products. 1234
